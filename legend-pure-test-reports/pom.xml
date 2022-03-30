@@ -72,7 +72,7 @@
         </dependency>
         <dependency>
             <groupId>org.finos.legend.pure</groupId>
-            <artifactId>legend-pure-code-compiled-platform</artifactId>
+            <artifactId>legend-pure-code-compiled-platform-par</artifactId>
             <exclusions>
                 <exclusion>
                     <groupId>*</groupId>
